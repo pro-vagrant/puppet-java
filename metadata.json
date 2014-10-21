@@ -1,0 +1,23 @@
+{
+  "name": "gajdaw-java",
+  "version": "0.1.11",
+  "author": "Włodzimierz Gajda",
+  "summary": "The module installs java.",
+  "license": "MIT",
+  "source": "git@github.com:pro-vagrant/puppet-java.git",
+  "issues_url": "https://github.com/pro-vagrant/puppet-java/issues",
+  "project_page": "https://github.com/pro-vagrant/puppet-java",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04"
+      ]
+    }
+  ],
+  "requirements": [
+      { "name": "puppet", "version_requirement": "3.x" }
+  ],
+  "dependencies": []
+}
+
