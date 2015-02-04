@@ -5,8 +5,8 @@
   "summary": "The module installs java.",
   "license": "MIT",
   "source": "git@github.com:pro-vagrant/puppet-java.git",
-  "issues_url": "https://github.com/pro-vagrant/puppet-java/issues",
-  "project_page": "https://github.com/pro-vagrant/puppet-java",
+  "issues_url": "https://github.com/puppet-by-examples/puppet-java/issues",
+  "project_page": "https://github.com/puppet-by-examples/puppet-java",
   "operatingsystem_support": [
     {
       "operatingsystem": "Ubuntu",
