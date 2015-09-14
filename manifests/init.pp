@@ -1,7 +1,7 @@
 class java {
 
-  package { "openjdk-7-jdk":
-    ensure => present
-  }
+    package { "openjdk-7-jdk":
+        ensure => present
+    }
 
 }

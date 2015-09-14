@@ -1,8 +1,0 @@
-name    'gajdaw-java'
-version '0.2.0'
-source 'git://github.com/pro-vagrant/puppet-java.git'
-author ' Włodzimierz Gajda'
-license 'MIT'
-summary 'The module to install java'
-description 'The module to install java'
-project_page 'https://github.com/puppet-by-examples/puppet-java'
